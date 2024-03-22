@@ -1,3 +1,5 @@
+## How to Run The Detector
+
 To run the track limits detection tool, follow these instructions:
 
 1. Start the main application using ```./final_project.sh```
